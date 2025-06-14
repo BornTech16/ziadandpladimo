@@ -24,7 +24,6 @@
     "@trpc/client": "^11.1.0",
     "@trpc/react-query": "^11.1.0",
     "@types/qrcode": "^1.5.5",
-    "@whatsapp-bot/router": "^1.0.0",
     "baileys": "npm:@whiskeysockets/baileys",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
